@@ -1,17 +1,17 @@
-# Pizza App
+# Movie App
 
-A simple pizza ordering and tracking app.
+A simple movie db app.
 
 ### Demo Link
 
-link: [https://pizza-mern-app.herokuapp.com/](https://pizza-mern-app.herokuapp.com/)
+link: [https://movie-dev-app.netlify.app](https://movie-dev-app.netlify.app)
 
 ### Technologies Used
 
-- NodeJS
-- MongoDB
-- EJS
-- Socket.IO
+- ReactJS
+- MovieDB API
+- TypeScript
+- Rest API
 
 ### License
 
